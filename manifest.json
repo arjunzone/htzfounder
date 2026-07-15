@@ -2,7 +2,7 @@
   "name": "Himal Trading Zone - Admin Panel",
   "short_name": "HTZ Admin",
   "description": "Himal Trading Zone এর ইউজার ও সাবস্ক্রিপশন কন্ট্রোল প্যানেল",
-  "start_url": "./admin.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
