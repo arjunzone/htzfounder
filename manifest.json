@@ -1,5 +1,5 @@
 {
-  "name": "Himal Trading Zone - Admin Panel",
+  "name": "HTZ Admin",
   "short_name": "HTZ Admin",
   "description": "Himal Trading Zone এর ইউজার ও সাবস্ক্রিপশন কন্ট্রোল প্যানেল",
   "start_url": "./index.html",
