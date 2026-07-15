@@ -3,7 +3,7 @@
 
 const CACHE_NAME = 'htz-admin-shell-v1';
 const SHELL_FILES = [
-  './admin.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
